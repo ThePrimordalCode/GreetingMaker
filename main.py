@@ -1,0 +1,1 @@
+print("This is the online greeting/goodbye maker. Have a meeting coming up, and dont know what to say? Going to a new place, and need something to pick up the conversation? Need a goodbye phrase to your classmates after graduating colledge? Then you need this program, the online greeting/goodbye maker.")
